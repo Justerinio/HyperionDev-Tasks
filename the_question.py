@@ -1,2 +1,2 @@
-the_question = input('What is your gender?: ')
+the_question = input('Are you a human?: ')
 print('Congrats! You are a human!')
