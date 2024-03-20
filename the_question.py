@@ -1,2 +1,2 @@
-the_question = input('What is your name?: ')
-print('Wow!You must be soooo wise!')
+the_question = input('What is your gender?: ')
+print('Congrats! You are a human!')
